@@ -8,7 +8,7 @@ It allows users to instantly **purchase insurance coverage** for a specific, sho
 If the insured event occurs within the coverage window (e.g., flight delay, heavy rainfall, system downtime), the insured can claim their payout automatically. If the event does not occur, the policy simply expires, and the premium remains with the insurer.
 
 This creates a **trustless, automated micro-insurance model** where payouts don’t rely on lengthy claim processes.
- 
+  
 ---
 
 ## ❓ Why Flash Insurance?
