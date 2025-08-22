@@ -9,7 +9,7 @@ If the insured event occurs within the coverage window (e.g., flight delay, heav
 
 This creates a **trustless, automated micro-insurance model** where payouts don’t rely on lengthy claim processes.
   
---- 
+---  
 
 ## ❓ Why Flash Insurance?
 
