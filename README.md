@@ -11,7 +11,7 @@ This creates a **trustless, automated micro-insurance model** where payouts don�
   
 ---  
 
-## ❓ Why Flash Insurance?
+## ❓ Why Flash Insurance? 
 
 Traditional insurance is often:
 
